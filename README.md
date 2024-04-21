@@ -1,0 +1,1 @@
+This project I build by myself for my recent 6-week EntryLevel course, This project aims to leverage the rich data available in the NYC Open Data set (2019) to uncover valuable insights for both Airbnb hosts and guests. Through data analysis, we will explore factors influencing listing success in the competitive NYC market.
